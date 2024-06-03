@@ -1,5 +1,5 @@
-Bangkit Academy 2024 - Data Dashboard Project
-Overview
+## Bangkit Academy 2024 - Data Dashboard Project
+# Overview
 Welcome to the Bangkit Academy 2024 Data Dashboard Project! This project showcases a dynamic and interactive data dashboard built using Python and Streamlit. The dashboard aims to visualize and analyze data effectively, providing insightful visual representations and user-friendly interactions.
 
 Features
