@@ -2,22 +2,23 @@
 # Overview
 Welcome to the Bangkit Academy 2024 Data Dashboard Project! This project showcases a dynamic and interactive data dashboard built using Python and Streamlit. The dashboard aims to visualize and analyze data effectively, providing insightful visual representations and user-friendly interactions.
 
-Features
+# Features
 Interactive Data Visualization: Utilize charts, graphs, and tables to present data clearly and intuitively.
 User-Friendly Interface: Easy-to-navigate layout ensuring a smooth user experience.
 Real-Time Data Updates: Dynamic updates to reflect the latest data.
 Customization Options: Various settings and filters to customize the data view according to user preferences.
 Responsive Design: Compatible with different devices and screen sizes.
-Installation
+
+## Installation
 To get started with the project, follow these steps:
 
-Clone the Repository:
+# Clone the Repository:
 
 bash
-Copy code
+'''
 git clone https://github.com/erlisrizqiyani/Bangkit-Academy-2024.git
 Navigate to the Project Directory:
-
+'''
 bash
 Copy code
 cd Bangkit-Academy-2024/dashboard
